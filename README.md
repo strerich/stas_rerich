@@ -4,19 +4,16 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="500" height="300"/>
-</div>
 :man_technologist: About Me :
 
-I am a Product Analyst from Russia
+I am a Data Analyst from Russia
 - :computer: I have a modern analytics stack.
 
 - :green_heart: In search of my dream company.
 
-- :film_strip: In my free time, I run a YouTube channel about analytics.
+- :film_strip: I spend my free time watching movies with my family.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/daniilyaburov-34b998274 )
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-%40stas_rerikh-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/stas_rerikh)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
